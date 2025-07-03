@@ -32,12 +32,6 @@ I'm a passionate security and engineering professional with 9+ years of experien
 
 ---
 
-## 🎓 Education
-
-**Lakshmi Narain College of Technology, Bhopal**  
-Bachelor's degree, Computer Science (2012 – 2016)
-
----
 
 ## 📂 Featured Projects
 
@@ -51,11 +45,10 @@ Bachelor's degree, Computer Science (2012 – 2016)
 
 ## 📫 Contact
 
-- **Phone:** 7000601224
-- **Email:** rounak316@gmail.com
+- **Email:** prakhar.agnihotri@meddler.io
 - **LinkedIn:** [studiogangster](https://www.linkedin.com/in/studiogangster)
 - **Personal:** [meddler.io](https://meddler.io)
-- **Blog:** [meddler.xyz](https://meddler.xyz)
+- **Blog:** [meddler.io](https://blog.meddler.io)
 - **GitHub Portfolio:** [github.com/studiogangster](https://github.com/studiogangster)
 
 ---
