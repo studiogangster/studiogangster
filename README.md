@@ -80,6 +80,16 @@ I love coding, hacking, and exploring the boundaries of what's possible with tec
 
 ---
 
+## 📫 Contact
+
+[![Email](https://img.shields.io/badge/Email-prakhar.agnihotri@meddler.io-blue?style=flat&logo=gmail)](mailto:prakhar.agnihotri@meddler.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-studiogangster-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/studiogangster)
+[![Website](https://img.shields.io/badge/Website-meddler.io-0a192f?style=flat&logo=google-chrome)](https://meddler.io)
+[![Blog](https://img.shields.io/badge/Blog-blog.meddler.io-0a192f?style=flat&logo=hashnode)](https://blog.meddler.io)
+[![GitHub](https://img.shields.io/badge/GitHub-studiogangster-181717?style=flat&logo=github)](https://github.com/studiogangster)
+
+---
+
 ## 📊 GitHub Stats
 
 ![studiogangster's GitHub stats](https://github-readme-stats.vercel.app/api?username=studiogangster&show_icons=true&theme=radical)
