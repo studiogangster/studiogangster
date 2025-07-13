@@ -2,7 +2,6 @@
 
 🚀 Building at the intersection of **AI, Security, Coding, and Networks**  
 🔒 Security & Engineering @ Times Internet  
-🌐 Delhi, India
 
 ---
 
@@ -51,7 +50,8 @@ I love coding, hacking, and exploring the boundaries of what's possible with tec
 ## 💼 Experience
 
 **Times Internet**  
-- **Head of Application Security** (Aug 2024 – Present)
+- **Leading Information Security** (Apr 2024 – Present)
+- **Head of Application Security** (Aug 2024 – Apr 2025)
 - **Application Security Architect** (Apr 2023 – Aug 2024)
 - **Technology Manager** (Sep 2020 – Sep 2023)
 - **Software Engineer III** (Sep 2017 – Sep 2020)
